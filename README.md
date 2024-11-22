@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Martin Kresta
-- 👀 I’m interested in embedded software ane electronics. Mainly ST's micros
-- 🌱 I’m currently learning efficient github workflow
+- 👀 I’m interested in embedded software and electronics. Mainly ST's micros
 - 💞️ I’m looking to collaborate on micro home automation projects
 
 <!---
